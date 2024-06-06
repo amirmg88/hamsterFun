@@ -10,4 +10,4 @@ You can use the program on Windows using the following solutions
 7. You choose 4 areas and the program will cycle between those areas randomly
 8. Finish (You got rich!!) :)
 9. Tell me if you have a problem
-10. Amirmg0 -- TelegramID
+10. Amirmgo -- TelegramID
