@@ -1,4 +1,4 @@
-#@Amirmg0 -- TelegramID
+#@Amirmgo -- TelegramID
 import time
 import random
 import pyautogui
